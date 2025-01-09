@@ -1,9 +1,9 @@
 image 1 :
 <p> comme souvent, cette histoire commence dans une auberge...</p>
-<p> Celle-ci est miteuse, inquiètante, perdue au fin fond du marais sans retour, pas de quoi effrayer de vaillants aventuriers</p>
+<p> Celle-ci est miteuse, inquiétante, perdue au fin fond du marais sans retour, pas de quoi effrayer de vaillants aventuriers</p>
 
 image 2 :
-<p>La crypte se cachait au fond de la cave et d'inquiètant murmures sans echappait</p>
+<p>La crypte se cachait au fond de la cave et d'inquiétant murmures sans échappait</p>
 <p>Prêts à en découdre, les aventuriers fourbirent leurs armes et grimoires.</p>
 
 image 3 :
